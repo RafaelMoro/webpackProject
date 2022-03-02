@@ -50,7 +50,7 @@ module.exports = {
                         // Especifica el tipo MIME con el que se alineará el archivo. 
                         // Los MIME Types (Multipurpose Internet Mail Extensions)
                         // son la manera standard de mandar contenido a través de la red.
-                        mimetype: 'aplication/font-woff',
+                        mimetype: 'application/font-woff',
                         // EL NOMBRE INICIAL DEL ARCHIVO + SU EXTENSIÓN
                         // PUEDES AGREGARLE [name]hola.[ext] y el output del archivo seria 
                         // ubuntu-regularhola.woff

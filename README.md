@@ -1,1 +1,1 @@
-# js-portfolio
+# Webpack in a JS Project
